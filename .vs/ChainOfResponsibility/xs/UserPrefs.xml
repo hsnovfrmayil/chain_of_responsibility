@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{491AD020-6D39-4061-A6DF-E43036C810C6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChainOfResponsibility/Models/Concretes/Checkers/EmailChecker.cs">
+    <Files>
+      <File FileName="ChainOfResponsibility/Models/Abstracts/ICheckerBuilder.cs" />
+      <File FileName="ChainOfResponsibility/Models/Concretes/CheckerDirector.cs" />
+      <File FileName="ChainOfResponsibility/Models/Concretes/Checkers/UsernameChecker.cs" />
+      <File FileName="ChainOfResponsibility/Models/Concretes/Checkers/EmailChecker.cs" Line="15" Column="38" />
+      <File FileName="ChainOfResponsibility/Models/Concretes/Checkers/PasswordChecker.cs" />
+      <File FileName="ChainOfResponsibility/Models/Concretes/User.cs" />
+      <File FileName="ChainOfResponsibility/Models/Abstracts/IChecker.cs" />
+      <File FileName="ChainOfResponsibility/Models/Abstracts/BaseChecker.cs" />
+      <File FileName="ChainOfResponsibility/Models/Abstracts/Person.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChainOfResponsibility" expanded="True">
+            <Node name="ChainOfResponsibility" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Abstracts" expanded="True" />
+                <Node name="Concretes" expanded="True">
+                  <Node name="Checkers" expanded="True">
+                    <Node name="EmailChecker.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
